@@ -4,10 +4,10 @@
 baseurl:
 url: https://2314372037.github.io/
 date_format: "ordinal"
-title: 豪
-subtitle: "子标题"
-description: "无描述"
-keywords: 豪, Hao, zh
+title: 张豪
+subtitle: "欢迎来到我的博客"
+description: "随便写点，为自己做个记录"
+keywords: 张豪, Hao
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2024-06-22
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 占位
+        image_alt: assets/images/qrcode.jpg
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -62,7 +62,7 @@ organization:
 organization_url: 
 github_username: 2314372037
 location: Chongqing, China
-email: zh23142037@gmail.com
+email: zh2314372037@outlook.com
 
 # ---------------- #
 #    Navigation    #
