@@ -3,17 +3,14 @@
       - Java
       - C++
       - Python
-      - Design Patterns
+      - Kotlin
 
 - name: Mobile Developer Keywords
   keywords:
       - Android
-      - Reverse Engineering
+      - AOSP
 
 - name: Windows Developer Keywords
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - UWP
+      - Compose for Desktop

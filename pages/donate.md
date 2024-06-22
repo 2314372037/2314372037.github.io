@@ -14,7 +14,7 @@ permalink: /donate/
 
 ## Paypal
 
-[Donate via Paypal](https://paypal.me/mzlogin)
+[Donate via Paypal](https://paypal.me/zh2314)
 
 ## 微信 / Wechat
 
